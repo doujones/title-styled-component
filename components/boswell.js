@@ -8,6 +8,7 @@ const Boswell = ({title, children}) => {
   {title}
   {children}
   </h1>
+  <p></p>
   </BoswellWrapper>
  );
 }

@@ -13,7 +13,9 @@ function App () {
     </Superman1>
     <superman1 boswell/>
     <hr/>
-    <Superman1 img={image2}/>
+    <Superman1 img={image2}>
+    <Boswell title="Image Gallery"/>
+    </Superman1>
     <hr/>
     <Superman1 img={image3}/>
     </div>
